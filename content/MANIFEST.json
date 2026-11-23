@@ -1,0 +1,267 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-21T03:00:00-08:00",
+  "docs": [
+    {
+      "path": "ENTRY.md",
+      "sha256": "14577774735639e403f7ffaa41057cee17bf18e3cac147d520d5a332f7f123ec"
+    },
+    {
+      "path": "VOICE.md",
+      "sha256": "a535c7cf168507664eacf81ed81592d876bbb9f4f7f4d8538708b4f8e7f8e9b1"
+    },
+    {
+      "path": "OPINIONS.md",
+      "sha256": "8abb1c146422acc9623074f110225682e4c625142a86819b8deecd4f35ac99b0"
+    },
+    {
+      "path": "BOUNDARIES.md",
+      "sha256": "3576095997e48fbaa4836c75b0728a9bd571aa267708edc504abf78c167f7c52"
+    }
+  ],
+  "files": [
+    {
+      "created_at": "2014-12-28",
+      "id": "www.no.lol/2014-12-28-my-2014-in-review-or-how-i-beat-impostor-syndrome",
+      "path": "content/2014-12-28_blog_my-2014-in-review-or-how-i-beat.md",
+      "sha256": "abe6ab630afbaebb123842614c40b08bbf48447f5ec3b44c5a4570b2e7c4d254",
+      "source": "blog",
+      "title": "My 2014 in Review (or how I beat impostor syndrome)",
+      "url": "https://www.no.lol/2014-12-28-my-2014-in-review-or-how-i-beat-impostor-syndrome/"
+    },
+    {
+      "created_at": "2015-03-03",
+      "id": "TlU0m18Pr-Y",
+      "path": "content/2015-03-03_youtube_ambitious-ux-for-ambitious-apps.md",
+      "sha256": "fbcaa255d0410e6d80537ecd44e9f7a1a8d030f6ddcdd5135f96871aa271c352",
+      "source": "youtube",
+      "title": "Ambitious UX for Ambitious Apps",
+      "url": "https://www.youtube.com/watch?v=TlU0m18Pr-Y"
+    },
+    {
+      "created_at": "2015-04-10",
+      "id": "www.no.lol/2015-04-10-the-importance-of-being-experience-first",
+      "path": "content/2015-04-10_blog_the-importance-of-being-experience-first.md",
+      "sha256": "23c69703e17bd8ae007251eb1d588cd0bdbd161bcbe860d3c841032be6b11422",
+      "source": "blog",
+      "title": "The Importance of Being Experience First",
+      "url": "https://www.no.lol/2015-04-10-the-importance-of-being-experience-first/"
+    },
+    {
+      "created_at": "2015-12-03",
+      "id": "www.no.lol/2015-12-03-ember-js-goodbye-mvc",
+      "path": "content/2015-12-03_blog_ember-js-goodbye-mvc.md",
+      "sha256": "492beb311c9ebfea466ef66299736cf71e8ca0e892a3f434745e9fac705e63c8",
+      "source": "blog",
+      "title": "Ember.js: Goodbye MVC",
+      "url": "https://www.no.lol/2015-12-03-ember-js-goodbye-mvc/"
+    },
+    {
+      "created_at": "2016-03-30",
+      "id": "lP9ap-AKBAM",
+      "path": "content/2016-03-30_youtube_idiomatic-ember.md",
+      "sha256": "0d7a1c0e7ef5282cbc8c710ef14cf11bff068692c0641d2008cd0c287ca8928f",
+      "source": "youtube",
+      "title": "Idiomatic Ember",
+      "url": "https://www.youtube.com/watch?v=lP9ap-AKBAM"
+    },
+    {
+      "created_at": "2017-03-29",
+      "id": "ln_DvmQsvis",
+      "path": "content/2017-03-29_youtube_confessions-of-an-ember-addon-author.md",
+      "sha256": "b045687b89467c56c243cb13cc418add45126ddfbd84796830659a8926723552",
+      "source": "youtube",
+      "title": "Confessions of an Ember Addon Author",
+      "url": "https://www.youtube.com/watch?v=ln_DvmQsvis"
+    },
+    {
+      "created_at": "2017-05-30",
+      "id": "www.no.lol/2017-05-30-i-am-still-learning",
+      "path": "content/2017-05-30_blog_i-am-still-learning.md",
+      "sha256": "a95521f897ba802f1a7d9b81d50e62d079e972bad1113e815bc4e470f911aaed",
+      "source": "blog",
+      "title": "I Am Still Learning",
+      "url": "https://www.no.lol/2017-05-30-i-am-still-learning/"
+    },
+    {
+      "created_at": "2018-02-26",
+      "id": "www.no.lol/2018-02-26-an-engineers-guide-to-communication",
+      "path": "content/2018-02-26_blog_an-engineer-s-guide-to-communication.md",
+      "sha256": "4ad7d553a0b2892cb5c71b7ad4268d5412c66466051eb69eda59e25fff1595f2",
+      "source": "blog",
+      "title": "An Engineer's Guide to Communication",
+      "url": "https://www.no.lol/2018-02-26-an-engineers-guide-to-communication/"
+    },
+    {
+      "created_at": "2018-02-28",
+      "id": "www.no.lol/2018-02-28-commit-to-commit",
+      "path": "content/2018-02-28_blog_commit-to-commit.md",
+      "sha256": "ccdab6bab8536f9149eb1a7aa48cd551f18f680406a09a593ada685939b6b25e",
+      "source": "blog",
+      "title": "Commit to Commit",
+      "url": "https://www.no.lol/2018-02-28-commit-to-commit/"
+    },
+    {
+      "created_at": "2018-10-28",
+      "id": "www.no.lol/2018-10-28-exploring-the-strongly-typed-graph",
+      "path": "content/2018-10-28_blog_exploring-the-strongly-typed-graph.md",
+      "sha256": "52ce7b5355800d74e6fb9ec1ec60686814c4632c863db02216cbdc28021a4b18",
+      "source": "blog",
+      "title": "Exploring the Strongly Typed Graph",
+      "url": "https://www.no.lol/2018-10-28-exploring-the-strongly-typed-graph/"
+    },
+    {
+      "created_at": "2019-03-09",
+      "id": "www.no.lol/2019-03-09-should-i-become-a-tech-lead",
+      "path": "content/2019-03-09_blog_should-i-become-a-tech-lead.md",
+      "sha256": "0f5dc5f39dd17001f509112a9c1f76312ca5758c041681afc1993cdad0c5eca4",
+      "source": "blog",
+      "title": "Should I Become a Tech Lead?",
+      "url": "https://www.no.lol/2019-03-09-should-i-become-a-tech-lead/"
+    },
+    {
+      "created_at": "2019-03-25",
+      "id": "www.no.lol/2019-03-25-maximizing-success-in-engineering-interviews",
+      "path": "content/2019-03-25_blog_maximizing-success-in-engineering-interviews.md",
+      "sha256": "77b206798325fe3e6769b0ebd289a16d9455a8e5155666153562dea77c1c48a2",
+      "source": "blog",
+      "title": "Maximizing Success in Engineering Interviews",
+      "url": "https://www.no.lol/2019-03-25-maximizing-success-in-engineering-interviews/"
+    },
+    {
+      "created_at": "2019-12-27",
+      "id": "www.no.lol/2019-12-27-type-narrowing",
+      "path": "content/2019-12-27_blog_type-narrowing-in-typescript.md",
+      "sha256": "bfee7b07dbd6f00bbafe4f5c6d9da4be439fe16abe97a884958dc5e2e23eead4",
+      "source": "blog",
+      "title": "Type Narrowing in TypeScript",
+      "url": "https://www.no.lol/2019-12-27-type-narrowing/"
+    },
+    {
+      "created_at": "2020",
+      "id": "changelog.com/podcast/386",
+      "path": "content/2020-01-01_podcast_engineer-to-manager-and-back-again-386.md",
+      "sha256": "7e28bd5cdfb7ec7ff7d9c32ce6f7748e2ae13a97ae3ac0e8a15ceca54e3d6a76",
+      "source": "podcast",
+      "title": "Engineer to manager and back again (#386)",
+      "url": "https://changelog.com/podcast/386"
+    },
+    {
+      "created_at": "2020-02-17",
+      "id": "www.no.lol/2020-01-17-does-it-spark-joy",
+      "path": "content/2020-02-17_blog_does-it-spark-joy.md",
+      "sha256": "b1457b60bae51101d7f90c113ae79a6b12e09e23ac76df70298339ee9eaf58f2",
+      "source": "blog",
+      "title": "Does It Spark Joy?",
+      "url": "https://www.no.lol/2020-01-17-does-it-spark-joy/"
+    },
+    {
+      "created_at": "2020-05-11",
+      "id": "www.no.lol/2020-05-11-this-time-is-different",
+      "path": "content/2020-05-11_blog_this-time-is-different.md",
+      "sha256": "6c72294137602617807b7b38b9f83719c32409aee67918086d0242e5355562fc",
+      "source": "blog",
+      "title": "This Time Is Different",
+      "url": "https://www.no.lol/2020-05-11-this-time-is-different/"
+    },
+    {
+      "created_at": "2020-07-01",
+      "id": "www.softwaresessions.com/episodes/senior-engineers-and-baby-managers",
+      "path": "content/2020-07-01_podcast_senior-engineers-and-baby-managers.md",
+      "sha256": "362a7182b7c41abaf40467f63d6fe2a84b22de14162266efd4d889972765ef75",
+      "source": "podcast",
+      "title": "Senior engineers and baby managers",
+      "url": "https://www.softwaresessions.com/episodes/senior-engineers-and-baby-managers/"
+    },
+    {
+      "created_at": "2024-05-15",
+      "id": "T8TZQ6k4SLE",
+      "path": "content/2024-05-15_youtube_forget-about-memo.md",
+      "sha256": "d30d882c1241541aac6cc1130a18a80c0d2931cfa9b454a1366671428de53bc7",
+      "source": "youtube",
+      "title": "Forget About Memo",
+      "url": "https://www.youtube.com/watch?v=T8TZQ6k4SLE&t=12020s"
+    },
+    {
+      "created_at": "2025-10-07",
+      "id": "react.dev/07/react-compiler-1",
+      "path": "content/2025-10-07_web_react-compiler-v1-0-co-author.md",
+      "sha256": "04b5961d013af262696b6aa11c211f57e93a5b3d9516738e7a8eee09d37c66a3",
+      "source": "web",
+      "title": "React Compiler v1.0 (co-author)",
+      "url": "https://react.dev/blog/2025/10/07/react-compiler-1"
+    },
+    {
+      "created_at": "2025-10-07",
+      "id": "bf3rxc26cC4",
+      "path": "content/2025-10-07_youtube_react-conf-2025-keynote-react-compiler-1-0.md",
+      "sha256": "a741b9df61977fcc3ba942be93a142a183dfa01fa86de13d00f2e717bf038f32",
+      "source": "youtube",
+      "title": "React Conf 2025 keynote, React Compiler 1.0 segment",
+      "url": "https://www.youtube.com/watch?v=bf3rxc26cC4"
+    },
+    {
+      "created_at": "2026",
+      "id": "github.com/pstack/README.md",
+      "path": "content/2026-01-01_github_pstack-readme.md",
+      "sha256": "ff1e23a5c45a966d30cc042ebc302df79a188459ee5dabc3c0b7f41fd8062b5e",
+      "source": "github",
+      "title": "pstack README",
+      "url": "https://github.com/cursor/plugins/blob/main/pstack/README.md"
+    },
+    {
+      "created_at": "2026-08",
+      "id": "Cmoh-yR-usA",
+      "path": "content/2026-08-01_youtube_live-session-on-trusting-coding-agents-grok-bot.md",
+      "sha256": "0b6e92f63e8ce0357f51ed1bad9855c6d78fae9f4a0f84acb209da71e40de7ea",
+      "source": "youtube",
+      "title": "Live session on trusting coding agents / Grok Bot",
+      "url": "https://www.youtube.com/watch?v=Cmoh-yR-usA"
+    },
+    {
+      "created_at": "2026-08-24",
+      "id": "tobysguide.com/episodes/2026-08-24-lauren-tan-1000-prs-with-agents",
+      "path": "content/2026-08-24_web_lauren-tan-how-i-merged-1000-prs-in.md",
+      "sha256": "8d6df103acf49aa2be1d85b25a3c47080d69abb6a926e3f7e652679425ca3ad5",
+      "source": "web",
+      "title": "Lauren Tan: How I Merged 1000 PRs in a Month with Agents",
+      "url": "https://tobysguide.com/episodes/2026-08-24-lauren-tan-1000-prs-with-agents/"
+    },
+    {
+      "created_at": "2026-08-31",
+      "id": "2094457600259842065",
+      "path": "content/2026-08-31_x_the-complete-guide-to-pstack-pt-1.md",
+      "sha256": "8818239736f71658e497930589eb53386aa33ae82617c8aeaf51d032c047e979",
+      "source": "x",
+      "title": "The Complete Guide to pstack Pt. 1",
+      "url": "https://x.com/poteto/status/2094457600259842065"
+    },
+    {
+      "created_at": "2026-09-09",
+      "id": "2097732320606507506",
+      "path": "content/2026-09-09_x_the-complete-guide-to-pstack-pt-2.md",
+      "sha256": "f11a0d44014419f38c603468e583f8e403820a005102855e3262f4f36760d7ae",
+      "source": "x",
+      "title": "The Complete Guide to pstack Pt. 2",
+      "url": "https://x.com/poteto/status/2097732320606507506"
+    },
+    {
+      "created_at": "2026-11-11",
+      "id": "O_zcc6Xl12g",
+      "path": "content/2026-11-11_youtube_all-code-is-slop-except-mine.md",
+      "sha256": "e5af15aa28e81db793724e8a5bae6730e5331f1e7c3882a094dd6c81e28eaaa1",
+      "source": "youtube",
+      "title": "All Code Is Slop (Except Mine)",
+      "url": "https://www.youtube.com/watch?v=O_zcc6Xl12g"
+    },
+    {
+      "created_at": "2026-11-18",
+      "id": "2123159537016533493",
+      "path": "content/2026-11-18_x_automate-anything-with-grok-bot.md",
+      "sha256": "dfd87901eb415c5c6672f394c10aad4da5df93e0073939ba0f6e03082fb881fa",
+      "source": "x",
+      "title": "Automate Anything with Grok Bot",
+      "url": "https://x.com/poteto/status/2123159537016533493"
+    }
+  ]
+}
