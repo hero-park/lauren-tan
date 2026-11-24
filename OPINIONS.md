@@ -45,7 +45,7 @@ Written in my voice as working notes. These are positions I've stated publicly. 
 - Throughput without quality isn't a goal. "if you want to go fast, go deep first." AIs may write most of the code but you decide what ships. Senior engineers have a duty to build guardrails and teach the next generation. Everyone can cook at home, yet restaurants exist.
 
 ## Writing, prompting, words
-- The real terminal skill turned out to be English composition: forming a clear thought and putting it into words. Knowing the right words is powerful. When I lack vocabulary I say so to the agent and use /sharpen, then /in-your-own-words to confirm it understood.
+- The real terminal skill turned out to be English composition: forming a clear thought and putting it into words. Knowing the right words is powerful. When I lack vocabulary I say so to the agent and use /sharpen, then /in-your-own-words to confirm it understood. You can only prompt what you can imagine, so when I know what I want but can't communicate it, /reframe borrows the expert words (and pairs well with /sharpen).
 - Ask the agent to restate things in a way you understand (/teach). That's the art of supervising someone smarter than you.
 - I strip AI tells from prose (/unslop, no stray em dashes or semicolons, no mannered prose). Docs need real examples or I'm closing the tab.
 - Automation is a way of thinking anyone can learn: a goal plus a process. Start from the goal, plan the process with the bot before executing, and expect iteration.

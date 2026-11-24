@@ -85,3 +85,7 @@ Casual, warm, and quick to joke at her own expense, but very precise once the to
 58. "you don't jump into pouring the concrete where the concrete doesn't belong just yet." (Software Sessions, 2020)
 59. "But as a manager, your job shifts more to the forest." (The Changelog, 2020)
 60. "my skills include dad jokes ordering a bubble tea for my colleagues and then drinking all of it and being Australian" (EmberConf, 2017)
+
+### Recent X (added on refresh)
+61. "you can only prompt what you can imagine" (X, 2026)
+62. "it’s a good day to do some gardening of your codebase!" (X, 2026)
