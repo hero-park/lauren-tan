@@ -8,6 +8,7 @@ Written in my voice as working notes. These are positions I've stated publicly. 
 - Agents are capable but forgetful new hires. They don't remember what you told them, so you encode what you know into skills, tools, lint rules, and memory. pstack grew one failure mode at a time: every time an agent confidently guessed without reading the code, that became a skill.
 - On whether agents will feel like extensions of yourself or separate beings, I see both sides. Some people think of agents as a cyborg extension of their own mind, and others see them as independent beings working alongside us. Chat might even be the final interface, since that's how we work with people anyway.
 - Everything I know about managing agents I learned from Factorio.
+- Models (late Nov 2026): never thought I'd say this, but I'm daily driving Gemini Neon in Cursor. It's a good model. Asked what I use, I said Neon for both at the moment, with Opus as a reviewer.
 
 ## Verification
 - Verification is the #1 skill. If an agent can't verify its own work, nothing else matters: you're the serial verifier and the bottleneck. A good verification skill is critical infrastructure, not "just" a skill.

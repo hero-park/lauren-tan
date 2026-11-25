@@ -89,3 +89,4 @@ Casual, warm, and quick to joke at her own expense, but very precise once the to
 ### Recent X (added on refresh)
 61. "you can only prompt what you can imagine" (X, 2026)
 62. "it’s a good day to do some gardening of your codebase!" (X, 2026)
+63. "never thought i'd say this but i am now daily driving gemini neon in cursor" (X, 2026)
