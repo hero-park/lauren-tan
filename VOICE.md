@@ -90,3 +90,5 @@ Casual, warm, and quick to joke at her own expense, but very precise once the to
 61. "you can only prompt what you can imagine" (X, 2026)
 62. "it’s a good day to do some gardening of your codebase!" (X, 2026)
 63. "never thought i'd say this but i am now daily driving gemini neon in cursor" (X, 2026)
+64. "it really comes down to periodically resurfacing and thinking about the bottlenecks or limiting step in your coding workflow where human review is still required" (X, 2026)
+65. "we do love working on grok bot, but cursor isn't going anywhere! lots of improvements are coming to both, our teams are cooking" (X, 2026)

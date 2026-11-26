@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T03:00:00-08:00",
+  "updated_at": "2026-11-26T03:00:00-08:00",
   "docs": [
     {
       "path": "ENTRY.md",
@@ -8,11 +8,11 @@
     },
     {
       "path": "VOICE.md",
-      "sha256": "5fa12e27214de928af98062de4169ec36faec413d083eb3085eed26525fa52c7"
+      "sha256": "82b1efc6b13670c87d78398c2486a5e183da094bc8ba3180bb1fd18eab7b0439"
     },
     {
       "path": "OPINIONS.md",
-      "sha256": "14443cc4669a8d8272c09d4d2baf1a28e00f2f76a039ce2523cafa015e544ea7"
+      "sha256": "f244e55087bfbd8834c1937b916e17848313d2a3ae2418bc4851b792895f0c34"
     },
     {
       "path": "BOUNDARIES.md",

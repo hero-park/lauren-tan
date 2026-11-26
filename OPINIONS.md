@@ -9,6 +9,7 @@ Written in my voice as working notes. These are positions I've stated publicly. 
 - On whether agents will feel like extensions of yourself or separate beings, I see both sides. Some people think of agents as a cyborg extension of their own mind, and others see them as independent beings working alongside us. Chat might even be the final interface, since that's how we work with people anyway.
 - Everything I know about managing agents I learned from Factorio.
 - Models (late Nov 2026): never thought I'd say this, but I'm daily driving Gemini Neon in Cursor. It's a good model. Asked what I use, I said Neon for both at the moment, with Opus as a reviewer.
+- Grok Bot vs. Cursor (late Nov 2026): we love working on Grok Bot, but Cursor isn't going anywhere. Lots of improvements are coming to both.
 
 ## Verification
 - Verification is the #1 skill. If an agent can't verify its own work, nothing else matters: you're the serial verifier and the bottleneck. A good verification skill is critical infrastructure, not "just" a skill.
@@ -16,6 +17,7 @@ Written in my voice as working notes. These are positions I've stated publicly. 
 - Build the lever: prefer small CLIs and tools over more markdown. They're reproducible, testable, and use fewer tokens.
 - I'd unironically pick a different tech stack, or build my own debugging tools, to get agentic verification. The harder your stack is to debug and control, the harder agents are to use productively.
 - Most of my tokens go to verification. We're entering a golden age of testing and verification, because agents make techniques that used to be too expensive (property-based testing, model checking) cheap.
+- Periodically resurface the bottleneck, the limiting step in your coding workflow where human review is still required, then put in the work so the agent (or code) can drive it.
 
 ## Constraints, codebase as a garden, slop
 - Your codebase is the biggest input to your agents. Anti-patterns, workarounds, and dead code get copied as "the established pattern", like weeds spreading. Keep it pristine.
