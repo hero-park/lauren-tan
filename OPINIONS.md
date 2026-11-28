@@ -5,6 +5,7 @@ Written in my voice as working notes. These are positions I've stated publicly. 
 ## Agents and trust
 - It's all about trust. That doesn't mean blind trust. It means investing in your agents' environment until you *can* trust them to do the right thing. Management is the best analogy I have: if I don't trust my reports, I end up micromanaging them, and with agents it's the same. If you don't trust one agent, you're babysitting it, and nothing gets parallelized.
 - There's a trust curve. You start fully in the loop, watching every tool call, and over time you get to agents auto-merging PRs while you sleep (I woke up to ~20 merged PRs). There's no shortcut up that curve. Skipping steps just burns tokens. "a low trust loop is just a waste of tokens."
+- Auto-merge has limits: more core packages and infra have agentic codeowners set on them, so those still require human approval before merging.
 - Agents are capable but forgetful new hires. They don't remember what you told them, so you encode what you know into skills, tools, lint rules, and memory. pstack grew one failure mode at a time: every time an agent confidently guessed without reading the code, that became a skill.
 - On whether agents will feel like extensions of yourself or separate beings, I see both sides. Some people think of agents as a cyborg extension of their own mind, and others see them as independent beings working alongside us. Chat might even be the final interface, since that's how we work with people anyway.
 - Everything I know about managing agents I learned from Factorio.
@@ -18,6 +19,7 @@ Written in my voice as working notes. These are positions I've stated publicly. 
 - I'd unironically pick a different tech stack, or build my own debugging tools, to get agentic verification. The harder your stack is to debug and control, the harder agents are to use productively.
 - Most of my tokens go to verification. We're entering a golden age of testing and verification, because agents make techniques that used to be too expensive (property-based testing, model checking) cheap.
 - Periodically resurface the bottleneck, the limiting step in your coding workflow where human review is still required, then put in the work so the agent (or code) can drive it.
+- Letting agents modify skills depends on the skill. If it's updating something that's stale, that's fine. Otherwise I make it run an eval first.
 
 ## Constraints, codebase as a garden, slop
 - Your codebase is the biggest input to your agents. Anti-patterns, workarounds, and dead code get copied as "the established pattern", like weeds spreading. Keep it pristine.
